@@ -1,0 +1,90 @@
+<resources>
+    <string name = "app_name">Dublin Ireland</string>
+
+    <!-- Category name for Restaurants. -->
+    <string name = "category_restaurants">Restaurants</string>
+
+    <!-- Category name for for Attractions. -->
+    <string name = "category_attractions">Attractions</string>
+
+    <!-- Category name for Museums. -->
+    <string name = "category_museums">Museums</string>
+
+    <!-- Category name for Parks. -->
+    <string name = "category_parks">Parks</string>
+
+    <!-- Names of restaurants -->
+    <string name = "name_restaurant1">EL GRITO</string>
+    <string name = "name_restaurant2">LEMON JELLY CAFE</string>
+    <string name = "name_restaurant3">ARTHUR\'S PUB</string>
+    <string name = "name_restaurant4">BEANHIVE</string>
+    <string name = "name_restaurant5">F.X. Buckley Steakhouse</string>
+    <string name = "name_restaurant6">OLD PUNCH BOWL</string>
+    <string name = "name_restaurant7">SOPHIE\'S</string>
+    <string name = "name_restaurant8">TANG CAFE</string>
+    <string name = "name_restaurant9">TOMAHAWK</string>
+
+    <!-- Addresses of restaurants -->
+    <string name = "address_restaurant1">Merchant\'s Arch | Temple Bar, Dublin</string>
+    <string name = "address_restaurant2">Unit 11 Millennium Walkway | Dublin 1</string>
+    <string name = "address_restaurant3">28 Thomas Street West, Dublin</string>
+    <string name = "address_restaurant4">26 Dawson Street, Dublin</string>
+    <string name = "address_restaurant5">28 Parkgate Street, Dublin</string>
+    <string name = "address_restaurant6">116 Rock Road | Booterstown, Dublin</string>
+    <string name = "address_restaurant7">33 Harcourt Street | Dean Hotel, Dublin</string>
+    <string name = "address_restaurant8">23C Dawson Street, Dublin</string>
+    <string name = "address_restaurant9">1 Essex Street East, Temple Bar, Dublin</string>
+
+    <!-- Names of museums -->
+    <string name = "name_museum1">KILMAINHAM GAOL</string>
+    <string name = "name_museum2">CROKE PARK STADIUM</string>
+    <string name = "name_museum3">IRISH WHISKEY MUSEUM</string>
+    <string name = "name_museum4">GLASNEVIN CEMETERY MUSEUM</string>
+    <string name = "name_museum5">THE IRISH ROCK\'N\'ROLL MUSEUM</string>
+    <string name = "name_museum6">DUBLINIA</string>
+    <string name = "name_museum7">NATIONAL LEPRECHAUN MUSEUM</string>
+
+    <!-- Addresses of restaurants -->
+    <string name = "address_museum1">Inchicore Road | Kilmainham, Dublin 8</string>
+    <string name = "address_museum2">St Josephs Avenue | Drumcondra, Dublin</string>
+    <string name = "address_museum3">119 Grafton Street, Dublin Dublin 2</string>
+    <string name = "address_museum4">Finglas Road, Dublin 11</string>
+    <string name = "address_museum5">Curved Street | Temple Bar, Dublin 2</string>
+    <string name = "address_museum6">St. Michael\'s Hill | Christ Church, Dublin 8</string>
+    <string name = "address_museum7">Jervis Street, Dublin 1</string>
+
+    <!-- Names of parks -->
+    <string name = "name_park1">ST. STEPHEN\'S GREEN PARK</string>
+    <string name = "name_park2">ST. ANNE\'S PARK</string>
+    <string name = "name_park3">PHOENIX PARK</string>
+    <string name = "name_park4">CORKGAGH PARK</string>
+    <string name = "name_park5">HERBERT PARK</string>
+    <string name = "name_park6">FAIRVIEW PARK</string>
+    <string name = "name_park7">MARLAY PARK</string>
+
+    <!-- Addresses of parks -->
+    <string name = "address_park1">Grafton St, Dublin 2</string>
+    <string name = "address_park2">James Larkin Road | Clontarf, Raheny, Dublin 3</string>
+    <string name = "address_park3">Parkgate St. | Conyngham Road, Dublin 8</string>
+    <string name = "address_park4">Naas Road | Newlands Cross, Dublin</string>
+    <string name = "address_park5">Ballsbridge | Dublin 4</string>
+    <string name = "address_park6">Fairview Park Fairview | Dublin 3</string>
+    <string name = "address_park7">Grange Road | Dún Laoghaire-Rathdown, Dublin</string>
+
+    <!-- Names of attractions -->
+    <string name = "name_attraction1">CHRIST CHURCH CATHEDRAL</string>
+    <string name = "name_attraction2">GLENDALOUGH AND POWERSCOURT</string>
+    <string name = "name_attraction3">GUINESS STOREHOUSE</string>
+    <string name = "name_attraction4">HOWTH PENINSULA</string>
+    <string name = "name_attraction5">MALAHIDE CASTLE</string>
+    <string name = "name_attraction6">VIKING DUCK TOUR DUBLIN</string>
+
+    <!-- Addresses of attractions -->
+    <string name = "address_attraction1">Christchurch Place, Dublin 8</string>
+    <string name = "address_attraction2">Powerscourt Gardens and House, Enniskerry</string>
+    <string name = "address_attraction3">Market Street | St James Gate, Dublin 8</string>
+    <string name = "address_attraction4"></string>
+    <string name = "address_attraction5">Malahide, Ireland</string>
+    <string name = "address_attraction6">Departure Point: St Stephens Green, Dublin</string>
+
+</resources>

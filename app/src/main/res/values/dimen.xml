@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name = "layout_height_width">88dp</dimen>
+    <dimen name = "layout_padding">10dp</dimen>
+    <dimen name = "text_size_name">18sp</dimen>
+    <dimen name = "text_size_address">14sp</dimen>
+    <dimen name = "layout_marginTop">20dp</dimen>
+    <dimen name = "layout_marginTop_text">10dp</dimen>
+
+</resources>
